@@ -48,3 +48,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rcgit checkout -b feature/init-infra
+=======
+.DS_Store
+**/.DS_Store
